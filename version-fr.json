@@ -8,15 +8,6 @@
             "drm_verion": "3.1",
             "drm_name": "fr31.zip",
             "status": true
-        },
-        {
-            "name": "Battlegrounds Mobile India",
-            "package": "com.tencent.ig",
-            "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/fr31.zip",
-            "deskripsi": "Faltu game waste of time",
-            "drm_verion": "3.1",
-            "drm_name": "fr31.zip",
-            "status": true
         }
     ],
     "isEnableLog" : false,
