@@ -3,13 +3,13 @@
         {
             "name": "Battlegrounds Mobile India",
             "package": "com.pubg.imobile",
-            "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/d1.zip",
+            "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/d1111.zip",
             "deskripsi": "Faltu game waste of time",
-            "drm_verion": "1.1",
-            "drm_name": "d1.zip",
+            "drm_verion": "1.2",
+            "drm_name": "d1111.zip",
             "status": true
         }
     ],
     "isEnableLog" : false,
-    "app_version" : "1.0"
+    "app_version" : "1.11"
 }
