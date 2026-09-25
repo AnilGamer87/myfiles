@@ -1,42 +1,33 @@
 {
+    "app_version": "1.0",
+    "app_url": "https://example.com/latest-app.apk",
+    "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/gl12.zip",
+    "drm_verion": "1.3",
+    "drm_name": "gl12.zip",
     "games": [
         {
             "name": "KOREA",
             "package": "com.pubg.krmobile",
-            "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/gl12.zip",
             "deskripsi": "Faltu game waste of time",
-            "drm_verion": "1.3",
-            "drm_name": "gl12.zip",
             "status": true
         },
         {
             "name": "GLOBAL",
             "package": "com.tencent.ig",
-            "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/gl12.zip",
             "deskripsi": "Faltu game waste of time",
-            "drm_verion": "1.3",
-            "drm_name": "gl12.zip",
             "status": true
         },
         {
             "name": "VIETNAM",
             "package": "com.vng.pubgmobile",
-            "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/gl12.zip",
             "deskripsi": "Faltu game waste of time",
-            "drm_verion": "1.3",
-            "drm_name": "gl12.zip",
             "status": true
         },
         {
             "name": "TAIWAN",
             "package": "com.rekoo.pubgm",
-            "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/gl12.zip",
             "deskripsi": "Faltu game waste of time",
-            "drm_verion": "1.3",
-            "drm_name": "gl12.zip",
             "status": true
         }
-    ],
-    "isEnableLog" : false,
-    "app_version" : "1.0"
+    ]
 }
