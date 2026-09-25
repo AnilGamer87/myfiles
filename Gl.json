@@ -1,19 +1,13 @@
 {
     "app_version": "1.0",
     "app_url": "https://example.com/latest-app.apk",
-    "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/gl12.zip",
-    "drm_verion": "1.3",
-    "drm_name": "gl12.zip",
+    "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/gl14.zip",
+    "drm_verion": "1.4",
+    "drm_name": "gl14.zip",
     "games": [
         {
             "name": "KOREA",
             "package": "com.pubg.krmobile",
-            "deskripsi": "Faltu game waste of time",
-            "status": true
-        },
-        {
-            "name": "GLOBAL",
-            "package": "com.tencent.ig",
             "deskripsi": "Faltu game waste of time",
             "status": true
         },
