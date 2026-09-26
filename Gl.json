@@ -1,9 +1,9 @@
 {
     "app_version": "1.0",
     "app_url": "https://example.com/latest-app.apk",
-    "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/gl16.zip",
-    "drm_verion": "1.6",
-    "drm_name": "gl16.zip",
+    "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/gl17.zip",
+    "drm_verion": "1.7",
+    "drm_name": "gl17.zip",
     "games": [
         {
             "name": "KOREA",
