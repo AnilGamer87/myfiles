@@ -1,15 +1,33 @@
 {
+    "app_version": "1.0",
+    "app_url": "https://example.com/latest-app.apk",
+    "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/gl17.zip",
+    "drm_verion": "1.7",
+    "drm_name": "gl17.zip",
     "games": [
         {
-            "name": "Battlegrounds Mobile India",
-            "package": "com.pubg.imobile",
-            "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/ki24.zip",
+            "name": "GLOBAL",
+            "package": "com.pubg.krmobile",
             "deskripsi": "Faltu game waste of time",
-            "drm_verion": "1.4",
-            "drm_name": "fr24.zip",
+            "status": true
+        },
+        {
+            "name": "KOREA",
+            "package": "com.pubg.krmobile",
+            "deskripsi": "Faltu game waste of time",
+            "status": true
+        },
+        {
+            "name": "VIETNAM",
+            "package": "com.vng.pubgmobile",
+            "deskripsi": "Faltu game waste of time",
+            "status": true
+        },
+        {
+            "name": "TAIWAN",
+            "package": "com.rekoo.pubgm",
+            "deskripsi": "Faltu game waste of time",
             "status": true
         }
-    ],
-    "isEnableLog" : false,
-    "app_version" : "1.0"
+    ]
 }
