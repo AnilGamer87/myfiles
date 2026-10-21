@@ -1,5 +1,5 @@
 {
-    "app_version": "1.0",
+    "app_version": "3.0.0",
     "app_url": "https://example.com/latest-app.apk",
     "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/gl19.zip",
     "drm_verion": "1.9",
