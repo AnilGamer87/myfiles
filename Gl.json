@@ -6,19 +6,25 @@
     "drm_name": "gl19.zip",
     "games": [
         {
-            "name": "KOREA",
+            "name": "PUBGM GLOBAL",
+            "package": "com.tencent.ig",
+            "deskripsi": "Faltu game waste of time",
+            "status": true
+        },
+        {
+            "name": "PUBGM KOREA",
             "package": "com.pubg.krmobile",
             "deskripsi": "Faltu game waste of time",
             "status": true
         },
         {
-            "name": "VIETNAM",
+            "name": "PUBGM VIETNAM",
             "package": "com.vng.pubgmobile",
             "deskripsi": "Faltu game waste of time",
             "status": true
         },
         {
-            "name": "TAIWAN",
+            "name": "PUBGM TAIWAN",
             "package": "com.rekoo.pubgm",
             "deskripsi": "Faltu game waste of time",
             "status": true
