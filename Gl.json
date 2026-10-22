@@ -1,9 +1,9 @@
 {
-    "app_version": "1.2",
-    "app_url": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/sinbad_v1.2.apk",
-    "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/s1.zip",
-    "drm_verion": "1.1",
-    "drm_name": "s1.zip",
+    "app_version": "1.3",
+    "app_url": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/sinbad_v1.3.apk",
+    "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/s2.zip",
+    "drm_verion": "1.2",
+    "drm_name": "s2.zip",
     "games": [
         {
             "name": "PUBGM GLOBAL",
