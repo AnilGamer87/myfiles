@@ -6,6 +6,12 @@
     "drm_name": "s3.zip",
     "games": [
         {
+            "name": "BGMI INDIA",
+            "package": "com.pubg.imobile",
+            "deskripsi": "Faltu game waste of time",
+            "status": true
+        },
+        {
             "name": "PUBGM GLOBAL",
             "package": "com.tencent.ig",
             "deskripsi": "Faltu game waste of time",
