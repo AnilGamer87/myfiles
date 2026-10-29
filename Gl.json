@@ -1,16 +1,10 @@
 {
     "app_version": "1.8",
-    "app_url": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/sinbad_v1.7.apk",
-    "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/s3.zip",
-    "drm_verion": "1.3",
-    "drm_name": "s3.zip",
+    "app_url": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/sinbad_v1.8.apk",
+    "drm": "https://raw.githubusercontent.com/AnilGamer87/myfiles/main/s4.zip",
+    "drm_verion": "1.4",
+    "drm_name": "s4.zip",
     "games": [
-        {
-            "name": "BGMI INDIA",
-            "package": "com.pubg.imobile",
-            "deskripsi": "Faltu game waste of time",
-            "status": true
-        },
         {
             "name": "PUBGM GLOBAL",
             "package": "com.tencent.ig",
