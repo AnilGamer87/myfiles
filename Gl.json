@@ -28,6 +28,12 @@
             "package": "com.rekoo.pubgm",
             "deskripsi": "Faltu game waste of time",
             "status": true
+        },
+        {
+            "name": "PUBGM FLASH",
+            "package": "com.tencent.igfit",
+            "deskripsi": "Faltu game waste of time",
+            "status": true
         }
     ]
 }
