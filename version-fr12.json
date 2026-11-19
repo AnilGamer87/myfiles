@@ -34,6 +34,12 @@
             "package": "com.tencent.igfit",
             "deskripsi": "Faltu game waste of time",
             "status": true
+        },
+        {
+            "name": "BGMI",
+            "package": "com.pubg.imobile",
+            "deskripsi": "Faltu game waste of time",
+            "status": true
         }
     ]
 }
